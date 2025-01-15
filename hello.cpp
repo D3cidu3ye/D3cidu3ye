@@ -1,6 +1,6 @@
 // CSC 134
 // Hello World
-// teacherbot
+// Christian Silvertooth
 // 1/15/25
 
 /*
